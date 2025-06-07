@@ -1,0 +1,6 @@
+langchain_google_genai
+langchain_ollama
+flask
+flask_cors
+selenium
+beautifulsoup4

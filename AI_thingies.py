@@ -3,7 +3,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_ollama import ChatOllama
 from langchain_ollama.llms import OllamaLLM
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDbJPhGJWHSsmpPEwa9hW4L6ZBNrFIsGU8"
+os.environ["GOOGLE_API_KEY"] = "USE YOUR GEMINI API KEY"
 
 
 llm = ChatGoogleGenerativeAI(
